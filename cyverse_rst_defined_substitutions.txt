@@ -30,6 +30,14 @@
 
    <a href="http://learning.cyverse.org" target="blank">CyVerse Learning Center</a>
 
+.. |CyVerse Account Creation| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/en/latest/" target="blank">Create a CyVerse Account</a>
+
+.. |CyVerse Forgot Password| raw:: html
+
+   <a href="https://user.cyverse.org/forgot" target="blank">Forgot Your CyVerse Password</a>
+
 .. |CyVerse Wiki| raw:: html
 
    <a href="https://wiki.cyverse.org" target="blank">CyVerse Wiki</a>
