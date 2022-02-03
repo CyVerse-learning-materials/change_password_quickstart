@@ -2,3 +2,6 @@ _build/
 *.pyc
 .ropeproject/
 *.DS_Store
+.vscode
+.vm
+.venv
