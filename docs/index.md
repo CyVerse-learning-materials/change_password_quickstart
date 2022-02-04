@@ -4,7 +4,7 @@
 
 ## Goal
 
-In this quick start guide you will learn how to change your CyVerse
+In this quickstart guide, you will learn how to change your CyVerse
 password.
 
 ------------------------------------------------------------------------
@@ -36,17 +36,17 @@ following services/software*
 ### Get Started
 
 1.  Navigate to the [CyVerse User Portal](https://user.cyverse.org/)
-    -   If you do not have a CyVerse account, go here for instructions
-        on how to create one: [Create CyVerse Account](https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
+    -   If you do not have a CyVerse account, instructions
+        on how to create an account are here: [Create CyVerse Account](https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
 2.  In the upper right corner of the page, click the
     `ACCOUNT`button
-3.  Scroll down to find the **Password** section
+3.  Scroll down to the **Password** section
 4.  If you have forgotten your password, click the link to reset your
     password.
     -   You can also find the link here: [Forgot Your CyVerse Password](https://user.cyverse.org/forgot)
-5.  If you know your old password, enter it in the first box of the
+5.  If you know your current password, enter it in the first box of the
     **Password** section
-6.  Choose a new password, and enter it into the *New Password* and
+6.  Choose a new password and enter it into the *New Password* and
     *Confirm New Password* boxes
 7.  Click the `UPDATE` button to update your password
 
