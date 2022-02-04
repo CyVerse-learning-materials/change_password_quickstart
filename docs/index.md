@@ -11,12 +11,13 @@ password.
 
 ## Quick Start Maintainer(s)
 
-Who to contact if this quick start needs fixing. You can also email
+Contact the Maintainer(s) if this quick start needs fixing. You can also email
 [learning@CyVerse.org](learning@CyVerse.org)
 
 | Maintainer | Institution | Contact |
 | --- | --- | --- |
 | Michael Culshaw-Maurer | CyVerse / UA | <culshawmaurer@arizona.edu> |
+| Tina Lee | CyVerse / UA | <tinal@cyverse.org> |
 
 ------------------------------------------------------------------------
 
@@ -33,22 +34,25 @@ following services/software*
 
 ------------------------------------------------------------------------
 
-### Get Started
+### Change Password
 
-1.  Navigate to the [CyVerse User Portal](https://user.cyverse.org/)
+1.  Go to the [CyVerse User Portal](https://user.cyverse.org/)
     -   If you do not have a CyVerse account, instructions
-        on how to create an account are here: [Create CyVerse Account](https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/)
-2.  In the upper right corner of the page, click the
-    `ACCOUNT`button
-3.  Scroll down to the **Password** section
-4.  If you have forgotten your password, click the link to reset your
-    password.
-    -   You can also find the link here: [Forgot Your CyVerse Password](https://user.cyverse.org/forgot)
-5.  If you know your current password, enter it in the first box of the
-    **Password** section
-6.  Choose a new password and enter it into the *New Password* and
-    *Confirm New Password* boxes
-7.  Click the `UPDATE` button to update your password
+        on how to create an account are here: [Create CyVerse Account](https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/).
+2.  In the right side of the page, click the
+    `LOGIN`button, then enter your current password, and click 'Log In'.
+3.  In the upper right of the screen, click 'ACCOUNT' and scroll down to the **Password** section.
+4.  Choose a new password and enter it into the *New Password* and
+    *Confirm New Password* boxes.
+5.  Click the `UPDATE` button to save and update your password.
+
+### Forgot Password
+
+1.  Go to the [CyVerse User Portal](https://user.cyverse.org/).
+2.  Click the "Forgot Password" link.
+    -   You can also find the link here: [Forgot Your CyVerse Password](https://user.cyverse.org/forgot).
+3.  Provide your email in the box, and click `Submit`.
+4.  You will receive an email with a link and instructions to reset your password.
 
 ------------------------------------------------------------------------
 
