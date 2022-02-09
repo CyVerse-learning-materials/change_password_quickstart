@@ -9,15 +9,10 @@ password.
 
 ------------------------------------------------------------------------
 
-## Quick Start Maintainer(s)
+## Quick Start Maintainer
 
-Contact the Maintainer(s) if this quick start needs fixing. You can also email
-[learning@CyVerse.org](learning@CyVerse.org)
-
-| Maintainer | Institution | Contact |
-| --- | --- | --- |
-| Michael Culshaw-Maurer | CyVerse / UA | <culshawmaurer@arizona.edu> |
-| Tina Lee | CyVerse / UA | <tinal@cyverse.org> |
+The CyVerse Learning Team maintains this document. If this Quick Start needs fixing, please email us at
+[learning@CyVerse.org](learning@CyVerse.org).
 
 ------------------------------------------------------------------------
 
